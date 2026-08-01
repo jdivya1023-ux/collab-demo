@@ -1,2 +1,2 @@
 This is Person1
-This line is added by Person2.
+This line is modified by Person1.
